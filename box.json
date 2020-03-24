@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "name": "Demo Gauge",
     "description": "A gauge demo",
-    "newInstancePrefix": "Gauge",    "icon":"https://github.com/Medbenhmida10/med.benhmida/blob/master/icon.png",
+    "newInstancePrefix": "Gauge",   
+    "icon":"https://medbenhmida10.github.io/icon.png",
     "vendor": "Demo",
     "eula": "EULA",
     "license": "1.0",
@@ -11,21 +12,21 @@
         {
             "kind": "main",
             "tag": "com-demo-gauge",
-            "url": "https://raw.githubusercontent.com/Medbenhmida10/med.benhmida/master/box.js?token=AOXLX3G3ATOUCBLQQ3ZOVV26PHH3W",
+            "url": "https://medbenhmida10.github.io/box.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "styling",
             "tag": "com-demo-gauge-sps",
-            "url": "https://raw.githubusercontent.com/Medbenhmida10/med.benhmida/master/box_sps.js?token=AOXLX3GL7ZAOZ3LQLT7G4SK6PHJFA",
+            "url": "https://medbenhmida10.github.io/box_sps.js",
             "integrity": "",
             "ignoreIntegrity": true       
         },
         {
             "kind": "builder",
             "tag": "com-demo-box-bps",
-            "url": "https://raw.githubusercontent.com/Medbenhmida10/med.benhmida/master/box_bps.js?token=AOXLX3HBJAEDQY62ZSA35TK6PHH7G",
+            "url": "https://medbenhmida10.github.io/box_bps.js",
             "integrity": "",
             "ignoreIntegrity": true       
         }    
